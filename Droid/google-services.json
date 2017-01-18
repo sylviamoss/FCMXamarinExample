@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "125404324238",
+    "firebase_url": "https://fcmxamarinexample.firebaseio.com",
+    "project_id": "fcmxamarinexample",
+    "storage_bucket": "fcmxamarinexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125404324238:android:62ea33109b10d07b",
+        "android_client_info": {
+          "package_name": "com.mysamples.fcmxamarinexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125404324238-d6pq8vbj3a888q2kk3nt1bu8jfa9804d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
