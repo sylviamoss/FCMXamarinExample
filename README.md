@@ -27,6 +27,10 @@ Disable Incremental Builds in your project build settings. Otherwise, you’ll g
 
 In info.plist file, enable Background Modes > Remote notifications.
 
+### Troubleshooting
+
+1) Android - Make sure you have background data turned on for Google Play Services
+
 #### Observation
 
 This project was made in Mac OS. 
